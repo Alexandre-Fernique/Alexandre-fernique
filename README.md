@@ -5,7 +5,7 @@ I am curently studying Computer Science and Management in an Engineering School 
 
 ### If you require any further information, feel free to contact me
 - 📧 [alexandre@fernique.fr](mailto:alexandre@fernique.fr)
-- 🔗 [LinkdedIn](https://www.linkedin.com/in/alexandre-fernique-04b252180/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-fernique-04b252180/)
 - 📰 [Curriculum vitae(CV)](https://fernique.fr)
  
 
