@@ -1,28 +1,78 @@
-### Hi there 👋
-I am curently studying Computer Science and Management in an Engineering School called 
-[<img align="center" src="https://www.usinenouvelle.com/mediatheque/1/6/0/000268061_image_600x315.jpg" alt="drawing" width="150"/>](https://www.polytech.umontpellier.fr/)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-### If you require any further information, feel free to contact me
-- 📧 [alexandre@fernique.fr](mailto:alexandre@fernique.fr)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-fernique-04b252180/)
-- 📰 [Curriculum vitae(CV)](https://fernique.fr)
- 
+<p align="center">
+<a href="https://fernique.fr">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/alexandre-fernique">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+</p>
 
+---
 
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
+```json
+{
+    "name": "Alexandre FERNIQUE",
+    "located_in": "Montpellier, France",
+    "current_job": "Back-end Engineer",
+    "education": [
+        "Graduate of Engineering School Polytech Montpellier in Computer science and Management",
+        "Self-Taught Developer and Designer"
+    ],
+    "company": "Urbasolar",
+    "fields_of_interests": [
+        "Web Development",
+        "Back-end",
+        "Front-end",
+        "DevOps",
+        "Typescript"
+    ],
+    "certifications": [
+        "AZ-900: Microsoft Azure Fundamentals",
+        "AWS Academy Cloud Foundations"
+    ],
+    "hobbies": [
+        "Climbing",
+        "Guitar",
+        "Travel"
+    ]
+}
+```
+  
+---  
+  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+</p>
 
-<!--
-**Alexandre-Fernique/Alexandre-fernique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
